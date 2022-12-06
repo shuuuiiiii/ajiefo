@@ -1,3 +1,5 @@
+print('fffelzik and IXtiax')
+
 local playerfiststat = game:GetService("Players").LocalPlayer.PrivateStats.FistStrength.Value
 	local Spheres = ""
 
